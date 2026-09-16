@@ -1,0 +1,1 @@
+feito apenas para garantir que a pasta assets seja versionada.
